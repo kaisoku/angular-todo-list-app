@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+li {
+    border: 5, 5;
+    background-color: azure;
+}
+
+.checked {
+    background-color: lightgreen;
+}
+
+.delete {
+    background-color: lightcoral;
+}
